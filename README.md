@@ -7,11 +7,11 @@ Exercicio 1:
 
 Criar uma classe Pessoa
 Criar uma ArrayList do Tipo Pessoa
-E o programa tem de permitir criar 10 pessoas, e deve fazer
-  -Inserção de Pessoas
-  -Listar Pessoas
-  -Pesquisar Pessoas
-  -Apagar Pessoas
+E o programa tem de permitir criar 10 pessoas, e deve fazer:
+  \n-Inserção de Pessoas
+  \n-Listar Pessoas
+  \n-Pesquisar Pessoas
+  \n-Apagar Pessoas
   
 
 Exercicio 2:
